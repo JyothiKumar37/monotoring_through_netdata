@@ -52,7 +52,11 @@ Logs are stored in:
 /var/log/netdata
 
 Outcome:
+
 By completing this task, you will:
+
 ✔ Understand how to use Netdata for lightweight system monitoring
+
 ✔ Monitor containers, system performance, and alerts in real time
+
 ✔ Gain experience in running monitoring tools via Docker.
